@@ -1,0 +1,18 @@
+User creates an account - mocked
+User logs in - mocked
+User identifies as Spectator or Performer - mocked
+
+Spectator lists challenges
+Spectator view challenge (performed and pending)
+Spectator votes on performed challenge
+Spectator creates challenge
+Spectator bids on pending challenge
+Spectator adds credit to account
+
+Performer accepts challenges
+Performer completes challenge providing youtube link
+Performer requests payout
+
+System expires challenge
+System opens contest
+System closed contest
